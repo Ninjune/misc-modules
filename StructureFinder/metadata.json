@@ -1,0 +1,8 @@
+{
+    "name": "StructureFinder",
+    "author": "Someone",
+    "description": "Finds structures.",
+    "entry": "index.js",
+    "version": "1.0.0",
+    "requires": ["Async", "RenderLib", "PogData"]
+}

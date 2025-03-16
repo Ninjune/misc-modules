@@ -1,0 +1,8 @@
+{
+  "name": "AutoSS",
+  "creator": "Ninjune",
+  "entry": "index.js",
+  "description": "Auto SS.",
+  "version": "1.0.0",
+  "requires": ["PogData", "Vigilance", "PromiseV2"]
+}

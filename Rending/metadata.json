@@ -1,0 +1,8 @@
+{
+  "name": "Rending",
+  "creator": "Ninjune",
+  "entry": "index.js",
+  "description": "Rend help.",
+  "version": "1.0.0",
+  "requires": ["PogData", "Vigilance", "requestV2", "RenderLib"]
+}

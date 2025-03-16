@@ -1,0 +1,8 @@
+{
+  "name": "Dwagons",
+  "creator": "Ninjune",
+  "entry": "index.js",
+  "description": "Dwagons",
+  "version": "1.0.0",
+  "requires": ["PogData", "Vigilance"]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CarryTracker",
+  "creator": "Ninjune",
+  "entry": "index.js",
+  "description": "Carry tracker for me",
+  "version": "1.0.0",
+  "requires": ["axios", "PogData"]
+}
